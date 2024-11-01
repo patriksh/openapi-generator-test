@@ -1,0 +1,46 @@
+# SellAuth.GetV1ShopsShopIdInvoicesInvoiceId200Response
+
+## Properties
+
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**id** | **Number** |  | [optional] 
+**status** | **String** |  | [optional] 
+**productId** | **Number** |  | [optional] 
+**variantId** | **Number** |  | [optional] 
+**price** | **String** |  | [optional] 
+**currency** | **String** |  | [optional] 
+**gateway** | **String** |  | [optional] 
+**email** | **String** |  | [optional] 
+**salt** | **String** |  | [optional] 
+**manual** | **Number** |  | [optional] 
+**createdAt** | **Date** |  | [optional] 
+**completedAt** | **Date** |  | [optional] 
+**archived** | **Number** |  | [optional] 
+**uniqueId** | **String** |  | [optional] 
+**product** | [**InvoiceProduct**](InvoiceProduct.md) |  | [optional] 
+**variant** | **Object** |  | [optional] 
+**couponId** | **Number** |  | [optional] 
+**paypalffEmail** | **String** |  | [optional] 
+**customerId** | **Number** |  | [optional] 
+**delivered** | **String** |  | [optional] 
+**amount** | **Number** |  | [optional] 
+**priceUsd** | **String** |  | [optional] 
+**customFields** | [**[PostV1ShopsShopIdProducts200ResponseAllOfCustomFieldsInner]**](PostV1ShopsShopIdProducts200ResponseAllOfCustomFieldsInner.md) |  | [optional] 
+**ip** | **String** |  | [optional] 
+**userAgent** | **String** |  | [optional] 
+**cryptoAddress** | **String** |  | [optional] 
+**cryptoAmount** | **String** |  | [optional] 
+**shopId** | **Number** |  | [optional] 
+**cashappCashtag** | **String** |  | [optional] 
+**venmoTag** | **String** |  | [optional] 
+**cashappReceiptId** | **String** |  | [optional] 
+**cashappTransactionId** | **String** |  | [optional] 
+**discordUserId** | **String** |  | [optional] 
+**paypalffTransactionId** | **String** |  | [optional] 
+**priceEur** | **String** |  | [optional] 
+**paypalffCurrency** | **String** |  | [optional] 
+**paypalffNote** | **String** |  | [optional] 
+**stripePiId** | **String** |  | [optional] 
+
+
